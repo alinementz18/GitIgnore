@@ -1,0 +1,37 @@
+CREATE DATABASE biblioteca;
+
+CREATE TABLE livro (
+id_livro INT AUTO_INCREMENT PRIMARY KEY,
+nome_livro VARCHAR (100),
+valor_livro DECIMAL (8,2),
+genero_livro VARCHAR (100)
+);
+
+SELECT * FROM livro;
+
+DESC livro;
+
+INSERT INTO livro VALUES
+(DEFAULT, 'Banco de Dados Essencial', 199.83, 'Educação'),
+(DEFAULT, 'Rede de Computadores', 141.83, 'Educação'),
+(DEFAULT, 'Engenharia de Software', 175.48, 'Educação'),
+(DEFAULT, 'Padrão de Projetos', 288.83, 'Educação')
+
+
+SELECT nome_livro FROM livro;
+
+CREATE VIEW nome_livros AS
+SELECT nome_livro FROM livro;
+
+SELECT * FROM nome_livros;
+
+
+CREATE VIEW media_valor_livro AS
+SELECT *FROM livro WHERE valor_livro >= (SELECT AVG(valor_livro) FROM livro);
+
+SELECT * FROM media_valor_livro;
+
+
+
+
+

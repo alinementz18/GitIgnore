@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `biblioteca`.`livro`.`nome_livro` AS `nome_livro`,`biblioteca`.`livro`.`autor` AS `autor`,`biblioteca`.`livro`.`valor_livro` AS `valor_livro`,`biblioteca`.`livro`.`quant_livro` AS `quant_livro`,`biblioteca`.`livro`.`valor_livro` * `biblioteca`.`livro`.`quant_livro` AS `subtotal` from `biblioteca`.`livro`
+md5=51333f32f1816162521b6dec290b8499
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=0001694044861491745
+create-version=2
+source=SELECT nome_livro, autor, valor_livro, quant_livro, valor_livro*quant_livro AS subtotal FROM livro
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select `biblioteca`.`livro`.`nome_livro` AS `nome_livro`,`biblioteca`.`livro`.`autor` AS `autor`,`biblioteca`.`livro`.`valor_livro` AS `valor_livro`,`biblioteca`.`livro`.`quant_livro` AS `quant_livro`,`biblioteca`.`livro`.`valor_livro` * `biblioteca`.`livro`.`quant_livro` AS `subtotal` from `biblioteca`.`livro`
+mariadb-version=110200

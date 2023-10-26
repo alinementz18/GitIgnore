@@ -1,0 +1,22 @@
+{
+  "name": "objetos1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc leia1.ts && node leia1.js",
+    "leia2": "npx tsc leia2.ts && node leia2.js",
+    "leia3": "npx tsc leia3.ts && node leia3.js",
+    "se1": "npx tsc se1.ts && node se1.js",
+    "se2": "npx tsc se2.ts && node se2.js",
+    "se3": "npx tsc se3.ts && node se3.js",
+    "escolha1": "npx tsc escolha1.ts && node escolha1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}

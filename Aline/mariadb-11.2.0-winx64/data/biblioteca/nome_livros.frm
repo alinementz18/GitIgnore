@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `biblioteca`.`livro`.`nome_livro` AS `nome_livro` from `biblioteca`.`livro`
+md5=c9132581389902568705a11c8d2c202e
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=0001693611290741317
+create-version=2
+source=SELECT nome_livro FROM livro
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select `biblioteca`.`livro`.`nome_livro` AS `nome_livro` from `biblioteca`.`livro`
+mariadb-version=110200

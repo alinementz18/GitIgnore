@@ -1,0 +1,14 @@
+{
+  "name": "objetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "npx tsc index.ts && node index.js",
+    "exercicio2": "npx tsc exercicio2.ts && node exercicio2.js",
+    "exercicio3": "npx tsc exercicio3.ts && node exercicio3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
