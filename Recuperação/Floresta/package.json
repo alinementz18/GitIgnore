@@ -1,0 +1,19 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc guerreiro.ts && node guerreiro.js",
+    "habilidade": "npx tsc habilidade.ts && node habilidade.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "@types/readline-sync": "^1.4.4",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
