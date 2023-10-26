@@ -1,0 +1,88 @@
+A)The customer opens an account A
+o cliente abre uma conta
+
+B) goes to the check out 6
+vai para o check-out
+
+
+C)puts the item in a basket or shopping cart 5
+coloca o item em uma cesta ou carrinho de compras
+
+
+D)the customer pays for the products with a credit or debit card 8
+o cliente paga pelos produtos com cartão de crédito ou débito
+
+
+E)goes to the website 1
+vai para o site
+
+
+F)searches and/or browses the website 3
+pesquisa e/ou navega no site
+
+G)the customer chooses the item to buy 4
+o cliente escolhe o item para comprar
+
+H) the customer checks the order 7
+o cliente verifica o pedido
+
+
+
+1 E
+2 A
+3 F
+4 G
+5 C
+6 B
+7 H
+8 D
+
+
+
+• Primeiramente entre no site ou aplicativo da loja virtual. 
+• Em segunda lugar ao escolher um produto, clique em comprar. 
+• Então o produto escolhido vai para um "carrinho de compras", você pode finalizar a compra ou deixá-lo guardado para continuar navegando na loja virtual. 
+• Depois de escolher tudo que quer comprar, volte ao carrinho de compras. 
+• Vai aparecer a tela com todos os produtos e a quantidade que você escolheu, bem como o valor. 
+• Depois disso, preencha o seu CEP no campo específico para que o valor do frete seja calculado. 
+• Caso tenha um cupom de desconto, coloque o código no campo específico. 
+• Preencha seus dados pessoais e endereço de entrega. 
+• Finalmente, escolha o meio de pagamento. 
+
+
+• First enter the website or application of the virtual store.
+• Secondly, when choosing a product, click buy.
+• Then the chosen product goes to a "shopping cart", you can complete the purchase or leave it saved to continue browsing the virtual store.
+• After choosing everything you want to buy, go back to the shopping cart.
+• A screen will appear with all the products and the quantity you have chosen, as well as the value.
+• After that, fill in your zip code in the specific field so that the freight value is calculated.
+• If you have a discount coupon, put the code in the specific field.
+• Fill in your personal details and delivery address.
+• Finally, choosing the payment method
+
+ 
+
+
+
+firstly 
+secondly
+then
+after that
+finally
+
+primeiramente
+em segundo lugar
+então
+depois disso
+finalmente
+
+
+1f
+2b
+3d
+4a
+5e
+6c
+
+
+

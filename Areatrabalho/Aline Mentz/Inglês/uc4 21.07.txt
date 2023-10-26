@@ -1,0 +1,116 @@
+Let me give you some background to our company is setup.
+Jumbo Book Store is a company based in Thailand. It has three book
+stores and a warehouse next to one of the book shops. The store manager, Amiki Sujhon, finds it very difficult to
+track sales because he uses handwritten sales reports that
+employees prepare every day. The driver takes the reports
+and delivers them to the main office. Every day  it takes
+5 to 6 hours to compile data about the sales. Based on these
+sales reports, Amiki writes purchase orders for new books, sales
+figures for the owner and customer information for the marketing
+department.
+In addition, he often gets from customers complaining about
+poor information about available books and stationary products
+in the warehouse.
+Could you spend some time looking at how we can improve our
+processes?
+Regards
+
+Deixe-me fornecer algumas informações básicas sobre a configuração de nossa empresa.
+A Jumbo Book Store é uma empresa com sede na Tailândia. tem tres livrarias e um armazém junto a uma das livrarias. A gerente da loja, Amiki Sujhon, 
+acha muito difícil
+acompanhar as vendas porque ele usa relatórios de vendas manuscritos que
+os funcionários se preparam todos os dias. O motorista leva os relatórios
+e os entrega no escritório principal. todos os dias é preciso
+5 a 6 horas para compilar dados sobre as vendas. Com base nestes
+relatórios de vendas, Amiki escreve ordens de compra para novos livros, vendas
+números para o proprietário e informações do cliente para o marketing
+departamento.
+Além disso, muitas vezes ele recebe reclamações de clientes sobre
+pouca informação sobre livros disponíveis e produtos de papelaria
+no armazém.
+Você poderia passar algum tempo olhando como podemos melhorar nosso
+processos?
+Cumprimentos
+
+
+
+What types of information does Jumbo Book Store communicate between its
+employees?
+Que tipos de informações a Jumbo Book Store comunica entre seus
+funcionários?
+=
+They use handwritten sales reports that
+employees prepare every day
+
+
+
+How do the employees exchange information in the company?
+Como os funcionários trocam informações na empresa?
+=
+The driver takes the reports
+and delivers them to the main office.
+
+
+
+
+What documents does Amiki prepare?
+Quais documentos o Amiki prepara?
+=
+Amiki writes purchase orders for new books, sales
+figures for the owner and customer information for the marketing
+department.
+
+How much time does it take to compile the data?
+Quanto tempo leva para compilar os dados?
+=
+Every day  it takes
+5 to 6 hours to compile data about the sales
+
+
+
+
+Why do the customers complain?
+Por que os clientes reclamam?
+=
+about poor information about available books and stationary products
+in the warehouse.
+
+
+
+
+
+WHO?
+quem
+The store manager, Amiki Sujhon,  
+WHAT?
+O que
+finds it very difficult to
+track sales
+acha muito difícil
+rastrear vendas
+
+WHY?
+porque
+
+because he uses handwritten sales reports that
+employees prepare every day.
+porque ele usa relatórios de vendas manuscritos que
+os funcionários se preparam todos os dias.
+
+
+
+SOLUtIONS
+
+1. Acquire software for the bookstore - Adquirir um software para a livraria
+2. The software brings important reports that help in strategic decision making 
+3. The software favors inventory control
+4. the software provides greater control over the financial
+
+
+END RESULTS
+
+The software gives you all the information you need to analyze and better understand everything in your bookstore. 
+This means more productivity, time and profitability for your business.
+
+o software fornece todas as informações necessárias para analisar e entender melhor tudo em sua livraria. 
+Assim é mais produtividade, tempo e rentabilidade para o seu negócio.

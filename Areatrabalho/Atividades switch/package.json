@@ -1,0 +1,25 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc quest1.ts && node quest1.js",
+    "quest2": "npx tsc quest2.ts && node quest2.js",
+    "quest3": "npx tsc quest3.ts && node quest3.js",
+    "quest4": "npx tsc quest4.ts && node quest4.js",
+    "teste1": "npx tsc teste1.ts && node teste1.js",
+    "teste2": "npx tsc teste2.ts && node teste2.js",
+    "teste3": "npx tsc teste3.ts && node teste3.js",
+    "teste4": "npx tsc teste4.ts && node teste4.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "@types/readline-sync": "^1.4.4",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}

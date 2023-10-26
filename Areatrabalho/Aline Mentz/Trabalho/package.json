@@ -1,0 +1,21 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animais.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc animais.ts && node animais.js",
+    "main1": "npx tsc main1.ts && node main1.js",
+    "loja": "npx tsc loja.ts && node loja.js",
+    "main": "npx tsc main.ts && node main.js",
+    "empresa": "npx tsc empresa.ts && node empresa.js",
+    "main2": "npx tsc main2.ts && node main2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}

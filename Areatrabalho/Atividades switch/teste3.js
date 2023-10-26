@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var quest3_1 = require("./quest3");
+var voo = new quest3_1.Voo("voo-123", "22-08-2023");
+console.log(voo.proximoLivre());
+console.log(voo.ocupa(1));
+console.log(voo.proximoLivre());
+console.log(voo.verifica(1));
+console.log(voo.ocupa(2));
+console.log(voo.vagas());

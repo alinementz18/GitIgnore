@@ -1,0 +1,25 @@
+if (existe) {
+                disciplinasAluno.push(codigoDisciplina)   // se existe adiciona o código da disciplina ao array disciplinasAluno
+            } else {
+                console.log("Não existe disciplinas cadastradas")
+
+for (let i = 0; i < numeroDisciplinas; i++) { // ex: se o aluno digitar 3  
+
+        let codigoDisciplina = leitor.question("Código da disciplina: ")
+        let existe = false // para verificar se o código já existe no array disciplinas
+
+        for (let i = 0; i < disciplinas.length; i++) {
+            if (disciplinas[i].codigo == codigoDisciplina) { //esse loop percorre o array disciplinas para verificar se
+                existe = true                                    //o código já exsite no sistema
+            }
+
+            if (existe) {
+                disciplinasAluno.push(codigoDisciplina)   // se existe adiciona o código da disciplina ao array disciplinasAluno
+            } else {
+                console.log("Não existe disciplinas cadastradas")
+                setTimeout(() => {
+                    menu()
+                }, 1000)
+            }
+
+

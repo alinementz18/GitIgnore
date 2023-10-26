@@ -1,0 +1,35 @@
+data storage - armazenamento de dados
+
+a. usb flash driverstorage 
+b. hard disk 
+c. external hard drive
+d. server
+e. the internet 
+f. mp3 player
+
+online storage is an emerging method of data storage and back-up.
+A remote server whit a network connection and special software backs up files,
+folders, or the entire____of a hard drive. There are many companies that provide 
+a web-based backup.
+
+One_____technology in this area is ______computing . This allows colleagues
+in an organisation to share resources, software and information over the internet.
+
+Continuous backup and storage on a remote hard drive eliminates the risk of data ____
+as a result of fire, flood or_______. Remote data storage and back-up providers__________
+the data and set up password protection to ensure maximum________
+
+Small businesses and individuals choose to save data in a more traditional way.
+External drives, disks and _______tapes are very popular data storage solutions. 
+USB or _______memories, DVSs and hard disks are cheap and widely accessible solutions.
+These methods are very practical with small _____of data storage and backup. However, they are
+not very reliable and do not_________-the user in case of a disaster.
+
+
+
+
+
+
+
+
+

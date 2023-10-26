@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var empresa_1 = require("./empresa");
+var empresa = new empresa_1.EmpresaDesenvolvimento("Minha Empresa", "Rua das Flores, 123");
+var funcionario1 = new empresa_1.Funcionario("João", "Desenvolvedor");
+var funcionario2 = new empresa_1.Funcionario("Maria", "Designer");
+empresa.adicionarFuncionario(funcionario1);
+empresa.adicionarFuncionario(funcionario2);
+empresa.exibirInformacoes();
+empresa.removerFuncionario(funcionario1);
+empresa.exibirInformacoes();

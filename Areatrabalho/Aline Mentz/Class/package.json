@@ -1,0 +1,25 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc carro.ts && node carro.js",
+    "start1": "npx tsc main.ts && node main.js",
+    "start2": "npx tsc conta.ts && node conta.js",
+    "start3": "npx tsc main1.ts && node main1.js",
+    "start4": "npx tsc ex1.ts && node ex1.js",
+    "start5": "npx tsc main2.ts && node main2.js",
+    "start6": "npx tsc ex2.ts && node ex2.js",
+    "start7": "npx tsc teste2.ts && node teste2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "@types/readline-sync": "^1.4.4",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
